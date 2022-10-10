@@ -4,4 +4,15 @@ body{
 .banner-container{
     background-color: #102040;
 }
-.banner-col{background-color: #7155ec91;}
+.banner-col{
+    background-color: #7155ec91;
+}
+.navbar{
+    background-color: rgb(55, 9, 77);
+}
+.about-container{
+    background-color: #01BBBD;
+}
+.profile-container{
+    background-color: #01BBBD;
+}
