@@ -16,3 +16,18 @@ body{
 .profile-container{
     background-color: #01BBBD;
 }
+.education-container{
+    background-color: #102040;
+}
+.bg-soil{
+    background-color: #C96A66;
+}
+.color-soil{
+    color:#C96A66 ;
+}
+.circle{
+    background-color:#C96A66 ;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
