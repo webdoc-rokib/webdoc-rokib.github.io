@@ -1,32 +1,41 @@
-body{
-    font-family:'open sans', sans-serif;
+.body {
+    font-family: 'Baloo Da 2', cursive;
 }
-.banner-container{
+
+.banner-container {
     background-color: #102040;
 }
-.banner-col{
+
+.banner-col {
     background-color: #7155ec91;
 }
-.navbar{
+
+.navbar {
     background-color: rgb(55, 9, 77);
 }
-.about-container{
+
+.about-container {
     background-color: #01BBBD;
 }
-.profile-container{
+
+.profile-container {
     background-color: #01BBBD;
 }
-.education-container{
+
+.education-container {
     background-color: #102040;
 }
-.bg-soil{
+
+.bg-soil {
     background-color: #C96A66;
 }
-.color-soil{
-    color:#C96A66 ;
+
+.color-soil {
+    color: #C96A66;
 }
-.circle{
-    background-color:#C96A66 ;
+
+.circle {
+    background-color: #C96A66;
     width: 150px;
     height: 150px;
     border-radius: 50%;
